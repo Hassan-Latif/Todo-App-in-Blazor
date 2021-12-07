@@ -1,0 +1,36 @@
+﻿body {
+    background-color: #8650EE;
+}
+
+.main {
+    width: 55%;
+    padding: 15px;
+    font-size: 17px;
+}
+
+ul li .spn {
+    float: right;
+    cursor: pointer;
+}
+
+ul li {
+    list-style-type: None;
+    padding: 15px;
+    background-color: white;
+    width: 73%;
+    font-size: 20px;
+}
+
+.para {
+    color: yellow;
+    font-size: 26px;
+    text-align: center;
+}
+
+.btn {
+    border: solid blue 1px;
+    background: #6FB6F3;
+    padding: 16px;
+    font-size: 20px;
+    width: 10%;
+}
